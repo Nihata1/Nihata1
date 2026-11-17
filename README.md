@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nihat
 
-<!--
-**Nihata1/Nihata1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate focused on software quality assurance.
+I design and execute manual tests, automate end-to-end scenarios with Playwright,
+and validate APIs and test data.
 
-Here are some ideas to get you started:
+## QA Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Manual testing** — Test case design, functional and regression testing, and defect reporting with Jira and Zephyr
+- **Test automation** — End-to-end testing with Playwright and JavaScript
+- **API testing** — Validating REST API status codes and response bodies with Postman
+- **Data validation** — Checking test data with SQL and SQLite
+
+I'm open to Junior QA and Test Automation roles.
